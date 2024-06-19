@@ -15,7 +15,7 @@ Explanation:
 
 This diagram explains how the PowerShell script works:
 
-
+```
 +-------------------------------------------+
 |             SecureDelete-File             | # Function definition
 |               (Function)                  |
@@ -99,3 +99,4 @@ This diagram explains how the PowerShell script works:
 |        Write Output "File securely        | # Confirm secure deletion
 |          deleted: $FilePath"              |
 +-------------------------------------------+
+```
